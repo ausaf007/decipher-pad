@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/issues/ausaf007/decipher-pad?style=for-the-badge" />
   </a>
   <a aria-label="GitHub license" href="https://github.com/ausaf007/decipher-pad/blob/master/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/ausaf007/decipher-pad?style=for-the-badge" />
+    <img src= "https://img.shields.io/github/license/ausaf007/decipher-pad?style=for-the-badge" />
   </a>
   <a aria-label="Build Status" target="_blank">
     <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" />
