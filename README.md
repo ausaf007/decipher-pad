@@ -59,7 +59,7 @@ Download and install [Java 11 SE Development Kit](https://www.oracle.com/java/te
 
 ## How To Use?
 
-* Navigate to **decipher_pad** package,
+* Navigate to **decipher_pad** package:
    ``` 
    cd src/com/github/decipher_pad
    ```
